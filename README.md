@@ -10,3 +10,10 @@ The Tableau Story and visualizations can be found here: [NYC Citibike Analysis](
 ## Results
 
 ![August Peak Hours](Resources/august_peak_hours.PNG)
+
+This chart shows that peak usage hours are 8-9AM and 5-6PM as these times are typical work commute hours. This chart also shows that the best time for bike maintenance is between 2-4AM.
+
+![Trips by Weekday Per Hour](Resources/trips_by_weekday_per_hour.PNG)
+
+This heatmap further demonstrates that peak bike usage is during typical work commute hours. The bikes are more evenly used throughout the morning and afternoon on Saturday's, probably due to tourists and sightseeing.
+
