@@ -42,4 +42,4 @@ This map shows that a majority of starting locations are in the downtown area, a
 This ending locations are very similar to the starting locations, further demonstrating that the greatest usage are in the most population dense areas.
 
 ## Summary
-Des Moines would be a great location for a bike-sharing program. Based on the data from the NYC bike-sharing program, we can see that most users are local and will be willing to subscribe to the service, and that many presumably use the bike-sharing program for inner city commute. For future analysis, 
+Des Moines would be a great location for a bike-sharing program. Based on the data from the NYC bike-sharing program, we can see that most users are local and will be willing to subscribe to the service, and that many presumably use the bike-sharing program for inner city commute. For future analysis, it would be useful to have bike usage data for each month of the year to see which months are the most and least popular and see how many subscribers and customers use the bikes during the winter months. It would also be useful to have weather data over the course of a year to see how much weather affects bike usage.
