@@ -8,3 +8,5 @@ The purpose of this bike trip analysis was to present data on the NYC Citibike b
 The Tableau Story and visualizations can be found here: [NYC Citibike Analysis](https://public.tableau.com/profile/michael.leggett#!/vizhome/NYCCitibikeAnalysis_16219136477410/NYCCitibikeAnalysis)
 
 ## Results
+
+[August Peak Hours](.Resources/august_peak_hours.PNG)
