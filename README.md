@@ -9,4 +9,4 @@ The Tableau Story and visualizations can be found here: [NYC Citibike Analysis](
 
 ## Results
 
-[August Peak Hours](.Resources/august_peak_hours.PNG)
+[August Peak Hours](.Resources/august_peak_hours.png)
